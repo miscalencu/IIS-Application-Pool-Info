@@ -19,5 +19,4 @@ Simple App to show IIS Worker Processes (with ProcessId)
 
 # Downloads
 
-- Console App - 
-- Form App - 
+- Win-x64 - Console App & Form App - https://github.com/miscalencu/IIS-Application-Pool-Info/releases
