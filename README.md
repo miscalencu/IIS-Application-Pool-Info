@@ -9,7 +9,7 @@ Simple App to show IIS Worker Processes (with ProcessId)
 
 ![image](https://user-images.githubusercontent.com/11539347/115265275-5e29c100-a137-11eb-8c48-f9926a5516ba.png)
 
-# Form App:
+# Windows Forms App:
 
 ![image](https://user-images.githubusercontent.com/11539347/115265176-43574c80-a137-11eb-8fb0-188287bd7475.png)
 
@@ -19,4 +19,4 @@ Simple App to show IIS Worker Processes (with ProcessId)
 
 # Downloads
 
-- Win-x64 - Console App & Form App - https://github.com/miscalencu/IIS-Application-Pool-Info/releases
+- Win-x64 - Console App & Windows Forms App - https://github.com/miscalencu/IIS-Application-Pool-Info/releases
