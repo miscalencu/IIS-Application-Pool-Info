@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "IISAppPoolInfo": {
+      "commandName": "Project",
+      "commandLineArgs": "-a"
+    }
+  }
+}
